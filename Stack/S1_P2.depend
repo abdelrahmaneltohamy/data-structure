@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587500001 source:c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\s1_p2\main.cpp
+	<iostream>
+
+1587241230 c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\s1_p2\include\stack.h
+
+1587240900 source:c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\s1_p2\src\stack.cpp
+	"Stack.h"
+

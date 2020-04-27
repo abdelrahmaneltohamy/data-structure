@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587656767 source:c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\s1_p1\main.cpp
+	<iostream>
+
+1586818945 source:c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\s1_p1\src\list.cpp
+	"List.h"
+
+1586818933 c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\s1_p1\include\list.h
+
+1586818625 c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\s1_p1\include\iterator.h
+	"List.h"
+
